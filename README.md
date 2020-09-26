@@ -1,5 +1,5 @@
 Author
-BYUSA UWASE GISELLE
+IgiranezaPrude2
 
 Description
 This project is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
@@ -52,8 +52,8 @@ gender  male selected, Expected output is You were born on monday and Your akan 
 Known Bugs
 no bugs
 Contact Information
-If you have any question or contributions, please email me at [byusagisele@gmail.com , 0784315067]
+If you have any question or contributions, please email me at [igiraprudence3991993@gmail.com]
 
 License
 MIT License:
-Copyright (c) 2020 BYUSA UWASE GISELLE
+Copyright (c) 2020 IgiranezaPrude2
